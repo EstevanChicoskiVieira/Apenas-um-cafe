@@ -3,7 +3,7 @@
 
 int main(int agrc, char** argv) {
 
-    std::cout << "                           Feito por Estevan Chicoski Vieira \n\n\n";
+    std::cout << "                           Feito por Jeall \n\n\n";
 
     while (true) {
         std::cout << "Voce esta em uma cafeteria, sao 22hrs. Ha uma maquina de cafe a sua frente. \n";
